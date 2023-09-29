@@ -1,0 +1,8 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2023/09/23/04/14/boat-8270209_1280.jpg);
+    
+}
+.card{
+    background-color: rgb(111, 111, 212);
+    margin-top: 20%;
+}
